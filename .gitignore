@@ -1,3 +1,19 @@
+# Challenge data: do not commit
+Train.csv
+Test.csv
+SourceManifest.csv
+AllowedDatasets.csv
+SampleSubmission.md
+SourceMaterials.zip
+sources/
+Submission*.md
+
+# Models and logs
+*.gguf
+*.safetensors
+ollama-starter.log
+.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
